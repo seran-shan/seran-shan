@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at partner at Junior Consulting<br>🎓 Studying M.Sc. Computer Science at Norwegian University of Science and Technology. 
+🔭 I’m currently working as Partner at Junior Consulting<br>🎓 Studying M.Sc. Computer Science at Norwegian University of Science and Technology. 
 
 
 ## 🌐 Socials:
