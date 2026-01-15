@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working at FSN Labs at FSN Capital Partners — the PortCo engine driving research and enabling tech across our portfolio companies.<br>🎓 M.Sc. Computer Science from Norwegian University of Science and Technology (NTNU).
+🔭 I'm currently working at FSN Labs at FSN Capital Partners — the PortCo engine driving research and enabling tech across our portfolio companies.
+🎓 M.Sc. Computer Science from Norwegian University of Science and Technology (NTNU).
 
+## 🔬 Current Focus:
+- Building internal tools and data platforms for portfolio value creation
+- Exploring AI/ML applications in private equity
+- Enabling data-driven decision making across portfolio companies
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Seran-Shanmugathas) 
